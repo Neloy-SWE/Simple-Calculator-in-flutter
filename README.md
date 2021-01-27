@@ -1,6 +1,6 @@
 # calculator
 
-A new Flutter application.
+It is a simple calculator application for mobile phone (android and ios). This application is made based on dart programming language and flutter framework. 
 
 ## Getting Started
 
