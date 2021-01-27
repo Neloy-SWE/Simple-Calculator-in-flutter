@@ -4,4 +4,4 @@ It is a simple calculator application for mobile phone (android and ios). This a
 
 # Screenshot of the calculator:
 
-<img scr="Screenshot/screenshot-1611763150015.jpg">
+<img scr="Screenshot/screenshot-1611763150015.jpg" >
